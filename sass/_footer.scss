@@ -1,0 +1,22 @@
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 10vh;
+    background-color: rgb(179, 161, 255);
+
+    .foot-text{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 50%;
+        height: 50px;
+
+        .pfooter{
+            font-weight: 700;
+            font-size: 17px;
+            color: white;
+        }
+    }
+}

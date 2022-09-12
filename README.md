@@ -1,2 +1,2 @@
 # Samar-Website-Template
-This repor is Samar Website Template
+## This repo is Samar Website Template

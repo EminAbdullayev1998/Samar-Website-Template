@@ -1,0 +1,141 @@
+.sectionEight{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 70vh;
+    background-color: rgb(137, 110, 255);
+
+       .consec8{
+           width: 100%;
+           height: 55vh;
+
+            .con-top{
+                display: flex;
+                width: 100%;
+                height: 15vh;
+
+                .con-logo{
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    width: 40%;
+                    height: 15vh;
+
+                    .con-img{
+                        margin-left: 100px;
+                    }
+                }
+
+                .con-adress{
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    width: 60%;
+                    height: 15vh;
+
+                    .add1{
+                        width: 30%;
+                        height: 100px;
+                    }
+
+                    .add2{
+                        width: 30%;
+                        height: 100px;
+                        margin-left: 10px;
+                    }
+                }
+            }
+
+            hr{
+               width: 80%;
+               
+            }
+
+            .con-alt{
+                display: flex;
+                width: 100%;
+                height: 35vh;
+
+                .about-us{
+                    width: 20%;
+                    height: 35vh;
+                    margin-left: 230px;
+
+                    .h1about{
+                        font-size: 20px;
+                        font-weight: 700;
+                        color: white;
+                    }
+
+                    .pabout{
+                        font-size: 15px;
+                        font-weight: 700;
+                        color: white;
+                        margin-top: 40px;
+                    }
+
+                }
+
+                .links{
+                    width: 15%;
+                    height: 35vh;
+                    margin-left: 20px;
+
+                    .h1links{
+                        font-size: 20px;
+                        font-weight: 700;
+                        color: white;
+                        margin-left: 40px;
+                    }
+
+                    ul li{
+                        margin-left: 50px;
+                    }
+
+                    ul li a{
+                        color: white;
+                    }
+                }
+
+                .services{
+                    width: 15%;
+                    height: 35vh;
+                    margin-left: 30px;
+
+                    .h1services{
+                        font-size: 20px;
+                        font-weight: 700;
+                        color: white;
+                        margin-left: 40px;
+                    }
+
+                    ul li {
+                        margin-left: 30px;
+                    }
+
+                    ul li a{
+                        color: white;
+                    }
+                }
+
+                .otherservices{
+                    width: 15%;
+                    height: 35vh;
+                    margin-left: 35px;
+
+                    .h1otherservices{
+                        font-size: 20px;
+                        font-weight: 700;
+                        color: white;
+                        margin-left: 40px;
+                    }
+
+                    ul li a{
+                        color: white;
+                        margin-left: 55px;
+                    }
+                }
+            }
+       }
+}

@@ -1,0 +1,80 @@
+.sectionFive{
+    width: 100%;
+    height: 60vh;
+    background-color: pink;
+    background-image: url('/img/bg5.png');
+    background-size: cover;
+    background-position: center;
+
+    .bg5color{
+        width: 100%;
+        height: 60vh;
+        background-color: rgba($color: #886EFE, $alpha: .5);
+        display: flex;
+        align-items: center;
+
+               .feedback1{
+                    width: 20%;
+                    height: 50vh;
+                    margin-left: 150px;
+                    border: 5px solid white;
+                    border-radius: 10px;
+                    box-shadow: 22px -11px 0px -3px rgba(0,0,0,0.77);
+                }
+
+
+                   .feedback2{
+                       width: 20%;
+                       height: 50vh;
+                       margin-left: 50px;
+                       border: 5px solid white;
+                       border-radius: 10px;
+                       box-shadow: 22px -11px 0px -3px rgba(0,0,0,0.77);
+                   }
+
+
+                      .bgtext{
+                          width: 30%;
+                          height: 50vh;
+                          margin-left: 50px;
+                          
+                            .bgh6{
+                                border: 1px solid purple;
+                                border-radius: 10px;
+                                font-size: 18px;
+                                font-weight: 600;
+                                width: 150px;
+                                display: flex;
+                                align-items: center;
+                                justify-content: center;
+                                margin: 10px;
+                                padding: 10px;
+                                margin-left: 50px;
+                                background-color: purple;
+                                color: whitesmoke;
+                                 
+                            }
+
+
+                            .bgh1{
+                                color: #fff;
+                                font-size: 40px;
+                                font-weight: 700;
+                                margin-top: 20px;
+                            }
+
+                               .bgp{
+                                  color: #fff;
+                                  font-size: 15px;
+                                  font-family: Poppins,sans-serif;
+                                  margin-top: 20px;
+                                }
+
+                        }
+            
+            
+        
+
+    }
+
+}
