@@ -63,7 +63,7 @@ a {
 header {
   width: 100%;
   height: 450px;
-  background-image: url("img/header background.jpg");
+  background-image: url("imgg/header background.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -588,7 +588,7 @@ header .button .btn a {
   width: 100%;
   height: 60vh;
   background-color: pink;
-  background-image: url("img/bg5.png");
+  background-image: url("imgg/bg5.png");
   background-size: cover;
   background-position: center;
 }
@@ -651,7 +651,7 @@ header .button .btn a {
 .sectionSix {
   width: 100%;
   height: 120vh;
-  background-image: url("img/sec6bg.jpg");
+  background-image: url("imgg/sec6bg.jpg");
   background-position: center;
   background-size: cover;
   display: flex;
@@ -766,7 +766,7 @@ header .button .btn a {
 .sectionSeven {
   width: 100%;
   height: 40vh;
-  background-image: url("img/sec7bg.jpg");
+  background-image: url("imgg/sec7bg.jpg");
   background-size: cover;
   background-position: center;
   display: flex;
